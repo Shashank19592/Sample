@@ -1,2 +1,4 @@
 test
+added a line 1
+added a line 12
 added a line 122222
